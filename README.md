@@ -1,2 +1,1 @@
-npm i
-npm run build
+Convert react application into a single HTML file with Webpack
